@@ -1,4 +1,4 @@
-<br clear="both">
+[<br clear="both">
 
 <img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdqeWlqMTB2djdmbTI3YjY2N3B3djhkOHRhOWltMmQyNjA3Y3JkaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WwO6IfH7K8hY5qU572/giphy.gif"  />
 
@@ -39,3 +39,4 @@
 </div>
 
 ###
+](https://media.giphy.com/media/9uITwFum2zFg9fBHYU/giphy.gif?cid=ecf05e47aw77tck547vkkzbexg0hk1t9vh01gu7jgzxjfpia&ep=v1_gifs_search&rid=giphy.gif&ct=g)
