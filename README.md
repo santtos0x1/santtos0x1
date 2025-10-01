@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a college student <br>🐍 I’m a Django Back-End Developer<br>🤝 I’m looking for help with the back-end of the apps<br>🌱 Learn lover
+🔭 I’m a college student <br>🐍 I’m a Django Back-End Developer<br>🤝 I’m looking for help with the back-end and front of the apps<br>🌱 Learn lover
 
 
 ## 🌐 Socials:
