@@ -16,12 +16,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
-  <img src="https://img.shields.io/badge/Hardware-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/RTOS-FreeRTOS-00A4EF?style=for-the-badge&logo=compilers&logoColor=white" />
-  <img src="https://img.shields.io/badge/Protocol-SPI%20%7C%20UART-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Security-Pentesting-red?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Network-Packet%20Sniffing-blue?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireless-Wardriving-lightgrey?style=for-the-badge&logo=antenna&logoColor=black" />
+
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Focus-Embedded_Systems-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Field-Cybersecurity-red?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Skills-Reverse_Engineering-informational?style=for-the-badge&logo=target&logoColor=white" />
+  
+  <br>
+
+  <img src="https://img.shields.io/badge/Hardware-ESP32_%26_ARM-00599C?style=for-the-badge&logo=microchip&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-WiFi_%26_Bluetooth-blue?style=for-the-badge&logo=bluetooth&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-FreeRTOS_%7C_Linux-00A4EF?style=for-the-badge&logo=linux-foundation&logoColor=white" />
 </div>
 
 ###
