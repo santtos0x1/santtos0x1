@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="210" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjI4ajgwZXlldGZocWFodXE5eWQ5a3EzNzJneW04d3ZnOGhucjBncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cPNV4ktH990zRK3jbL/giphy.gif"  />
+  <img height="210" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjI4ajgwZXlldGZocWFodXE5eWQ5a3EzNzJneW04d3ZnOGhucjBncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cPNV4ktH990zRK3jbL/giphy.gif" />
 </div>
 
 ###
@@ -32,13 +32,21 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">🦉 About Me</h3>
+
+<p align="left">
+  Computer Science student with a deep interest in <b>Cybersecurity</b> and <b>Embedded Systems</b>. 
+  I enjoy exploring the intersection between hardware and software, specifically how data moves through the air and how to secure it.
+</p>
+
+- 🔭 **Working on:** Wireless security tools and FSM-based firmware.
+- 🌱 **Learning:** Low-level exploitation and RTOS optimization.
+- 🤝 **Collaboration:** Open to contributing to InfoSec and Open-Source hardware projects.
+- ⚡ **Fun fact:** I believe that if you can't see the code, you don't own the hardware.
 
 ###
 
-<p align="left">I’m a Student of computer science,  and cybersecurity<br>🤝 I’m looking for help with open-source projects related with Sec<br>🌱 Learn lover</p>
-
-###
+<h3 align="left">👾 Activity Graph</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santtos0x1/santtos0x1/output/pacman-contribution-graph-dark.svg">
@@ -48,8 +56,6 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&theme=cobalt" />
 </div>
-
-###
