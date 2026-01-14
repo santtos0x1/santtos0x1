@@ -6,6 +6,11 @@
 
 ###
 
+![Version](https://img.shields.io/badge/Noctua-v1.0-blueviolet?style=flat-square)
+![C++](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Framework-Arduino-008184?style=flat-square&logo=arduino&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open_Source-%E2%9D%A4-brightgreen?style=flat-square)
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
