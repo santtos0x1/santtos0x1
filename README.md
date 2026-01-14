@@ -35,7 +35,7 @@
 <h3 align="left">🦉 About Me</h3>
 
 <p align="left">
-  Computer Science student with a deep interest in <b>Cybersecurity</b> and <b>Embedded Systems</b>. 
+  ADS student with a deep interest in <b>Cybersecurity</b> and <b>Embedded Systems</b>. 
   I enjoy exploring the intersection between hardware and software, specifically how data moves through the air and how to secure it.
 </p>
 
