@@ -24,8 +24,7 @@
 <h3 align="left">🦉 About Me</h3>
 
 <p align="left">
-  Software Analysis and Development student with a deep interest in <b>Cybersecurity</b> and <b>Embedded Systems</b>. 
-  I enjoy exploring the gap between hardware and software.
+  Software Analysis and Development student with a deep interest in <b>Cybersecurity</b> and <b>Embedded Systems</b>.
 </p>
 
 ###
