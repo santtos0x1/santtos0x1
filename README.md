@@ -17,6 +17,11 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/MQTT-660066.svg?style=for-the-badge&logo=MQTT&logoColor=white" height="40" alt="mqtt logo" />
   <img width="12" />
+  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" height="40" alt="linux logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white" height="40" alt="raspberry pi logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/STM32-03234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white" height="40" alt="stm32 logo" />
 <br>
 
 ###
