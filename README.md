@@ -1,40 +1,37 @@
 <br clear="both">
 
 <div align="center">
-  <img height="210" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjI4ajgwZXlldGZocWFodXE5eWQ5a3EzNzJneW04d3ZnOGhucjBncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cPNV4ktH990zRK3jbL/giphy.gif" />
+  <img height="210" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjI4ajgwZXlldGZocWFodXE5eWQ5a3EzNzJneW04d3ZnOGhucjBncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cPNV4ktH990zRK3jbL/giphy.gif"/>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Espressif-E7352C.svg?style=for-the-badge&logo=Espressif&logoColor=white" height="40" alt="expressif logo" />
-  <img width="12" />
-  <br>
-  <img src="https://img.shields.io/badge/MQTT-660066.svg?style=for-the-badge&logo=MQTT&logoColor=white" height="40" alt="mqtt logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" height="40" alt="linux logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white" height="40" alt="raspberry pi logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/STM32-03234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white" height="40" alt="stm32 logo" />
 <br>
 
-###
+<div align="center">
+
+<img src="https://img.shields.io/badge/C++-7B2CBF?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-9D4EDD?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-5A189A?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Espressif-3C096C?style=for-the-badge&logo=espressif&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/MQTT-7B2CBF?style=for-the-badge&logo=mqtt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-5A189A?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-9D4EDD?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/STM32-3C096C?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+
+</div>
+
+<br>
 
 <h3 align="left">🦉 About Me</h3>
 
 <p align="left">
-  Software Analysis and Development student with a deep interest in <b>Cybersecurity</b> and <b>Embedded Systems</b>.
+I have a deep interest in <b>Embedded Systems</b>.
 </p>
 
-###
+<br>
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=9d00ff"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=6A00F4"/>
 </div>
