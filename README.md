@@ -8,17 +8,17 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/C++-7B2CBF?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-9D4EDD?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-5A189A?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Espressif-3C096C?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Espressif-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/MQTT-7B2CBF?style=for-the-badge&logo=mqtt&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-5A189A?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Raspberry%20Pi-9D4EDD?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-<img src="https://img.shields.io/badge/STM32-3C096C?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+<img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
 
 </div>
 
@@ -27,11 +27,11 @@
 <h3 align="left">🦉 About Me</h3>
 
 <p align="left">
-I have a deep interest in <b>Embedded Systems</b>.
+Software Analysis and Development student focused on low-level programming and embedded systems, with a strong interest in building efficient software close to the hardware.
 </p>
 
 <br>
 
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=6A00F4"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&fontColor=FFFFFF&color=7B2CBF"/>
 </div>
