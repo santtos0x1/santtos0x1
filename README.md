@@ -15,6 +15,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Espressif-E7352C.svg?style=for-the-badge&logo=Espressif&logoColor=white" height="40" alt="expressif logo" />
   <img width="12" />
+  <br>
   <img src="https://img.shields.io/badge/MQTT-660066.svg?style=for-the-badge&logo=MQTT&logoColor=white" height="40" alt="mqtt logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" height="40" alt="linux logo" />
