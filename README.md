@@ -19,7 +19,8 @@
 ![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![Assembly](https://img.shields.io/badge/Assembly-0d1117?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-0d1117?style=for-the-badge&logo=assemblyscript&logoColor=blue)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 
 ---
 
