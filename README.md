@@ -13,7 +13,7 @@
 <br>
 
 🧰 Tools & Technologies
-<p align="left"> <img src="https://skillicons.dev/icons?i=c,cpp,cmake,linux,git,github,vscode,raspberrypi" height="60" alt="core tools" /> <img height="60" src="https://img.shields.io/badge/-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="stm32 logo" /> <img height="60" src="https://img.shields.io/badge/-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="esp32 logo" /> <img height="60" src="https://img.shields.io/badge/-314CB0?style=flat-square&logo=kicad&logoColor=white" alt="kicad logo" /> <img height="60" src="https://img.shields.io/badge/-660066?style=flat-square&logo=mqtt&logoColor=white" alt="mqtt logo" /> <img height="60" src="https://img.shields.io/badge/-4A86CF?style=flat-square&logo=gnome&logoColor=white" alt="gnome logo" /> </p> <br>
+<p align="left"> <img src="https://skillicons.dev/icons?i=c,cpp,cmake,debian,linux,git,github,vscode,raspberrypi" height="60" alt="core tools" /> <img height="60" src="https://img.shields.io/badge/-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="stm32 logo" /> <img height="60" src="https://img.shields.io/badge/-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="esp32 logo" /> <img height="60" src="https://img.shields.io/badge/-314CB0?style=flat-square&logo=kicad&logoColor=white" alt="kicad logo" /> <img height="60" src="https://img.shields.io/badge/-660066?style=flat-square&logo=mqtt&logoColor=white" alt="mqtt logo" /> <img height="60" src="https://img.shields.io/badge/-4A86CF?style=flat-square&logo=gnome&logoColor=white" alt="gnome logo" /> </p> <br>
 
 <br>
 
