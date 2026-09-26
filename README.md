@@ -17,5 +17,4 @@
 
 <br>
 
-📊 GitHub Stats
 <p align="center"> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=santtos0x1&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p> <br>
