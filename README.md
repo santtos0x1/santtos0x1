@@ -12,35 +12,7 @@
 
 <br>
 
----
-
-**⚙️ Languages**
-
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-
----
-
-**⚙️ Hardware & Microcontrollers**
-
-![ESP32](https://img.shields.io/badge/ESP32-0d1117?style=for-the-badge&logo=espressif&logoColor=E7352C)
-![STM32](https://img.shields.io/badge/STM32-0d1117?style=for-the-badge&logo=stmicroelectronics&logoColor=03A9F4)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-0d1117?style=for-the-badge&logo=raspberrypi&logoColor=A22846)
-
----
-
-**⚙️ RTOS & OS**
-
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-0d1117?style=for-the-badge&logoColor=8CC800)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-
----
-
-<br>
-
-<div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&fontColor=FFFFFF&color=0d1117"/>
-</div>
+🧰 Tools & Technologies
+<p align="left"> <img height="48" src="https://img.shields.io/badge/-00599C?style=flat-square&logo=c&logoColor=white" alt="C" /> <img height="48" src="https://img.shields.io/badge/-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /> <img height="48" src="https://img.shields.io/badge/-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake" /> <img height="48" src="https://img.shields.io/badge/-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32" /> <img height="48" src="https://img.shields.io/badge/-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" /> <img height="48" src="https://img.shields.io/badge/-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="RP2040 / Raspberry Pi" /> <img height="48" src="https://img.shields.io/badge/-314CB0?style=flat-square&logo=kicad&logoColor=white" alt="KiCad" /> <img height="48" src="https://img.shields.io/badge/-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT" /> <img height="48" src="https://img.shields.io/badge/-A81D33?style=flat-square&logo=debian&logoColor=white" alt="Debian" /> <img height="48" src="https://img.shields.io/badge/-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /> <img height="48" src="https://img.shields.io/badge/-4A86CF?style=flat-square&logo=gnome&logoColor=white" alt="GNOME" /> <img height="48" src="https://img.shields.io/badge/-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img height="48" src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> <img height="48" src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" /> </p> <br>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=SEU-USUARIO&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p> <br>
